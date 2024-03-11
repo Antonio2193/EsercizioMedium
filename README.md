@@ -1,0 +1,2 @@
+# EsercizioMedium
+progetto medium
